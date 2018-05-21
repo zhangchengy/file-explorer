@@ -2,6 +2,6 @@ package com.succez.java;
 
 public class Hello {
 	public static  void main(){
-		System.out.println("ddd");
+		System.out.println("this is a java program");
 	}
 }
